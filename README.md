@@ -1,4 +1,4 @@
-C-project
+# C-project
 
 The subject of the project I did is about a high-tech employee management system that syncs with 3 kind of files:
 
